@@ -1,6 +1,10 @@
 # flutterjson
 
  Flutter Json 解析例子。
+ 
+ 点击下文链接查看详情描述：
+ 
+ - [Flutter Notes ｜quicktype 解析 json 就是这么 easy～](https://juejin.im/post/5f00ade8e51d45347e5c6bd2)
 
 License
 =======
